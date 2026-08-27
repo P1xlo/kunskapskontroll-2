@@ -11,3 +11,4 @@ Den här uppgiften kontrollerar att du kan använda grundläggande utvecklingsve
 * git branch -M main: Ändrar main branchens namn till "main"
 * git remote: Hanterar repositoryt på git servern.
 * git push: Skickar up den senaste versionen i historiken till git servern.
+* git add: lägger till ändringar man har gjort i nästa commit.
