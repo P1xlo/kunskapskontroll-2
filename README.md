@@ -13,7 +13,7 @@ Den här uppgiften kontrollerar att du kan använda grundläggande utvecklingsve
 * git push: Skickar up den senaste versionen i historiken till git servern.
 * git add: lägger till ändringar man har gjort i nästa commit.
 
-
+---
 
 * Repository: En digital lagringsplats för project. Här sparas alla filer, mappar, dokument och hela projektets historik.
 
